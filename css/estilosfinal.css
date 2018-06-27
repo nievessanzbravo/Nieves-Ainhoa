@@ -1,0 +1,33 @@
+#fondo {
+  background-image: url('../imagenes/los400.jpg');
+  background-attachment: fixed;
+}
+#opiniones {
+  font-style: italic;
+}
+p {
+  background-color: white
+}
+small {
+  background-color: white
+}
+.redsocial {
+  width: 100px;
+}
+.foto img {
+  width: 300px;
+}
+.centro {
+  text-align: center;
+}
+.titulartistas {
+  color: white;
+  background-color: lightblue;
+  font-style: oblique;
+}
+.sorteostitulo {
+  color: white;
+  background-color: PINK;
+  font-style: italic;
+
+}
